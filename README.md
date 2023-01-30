@@ -11,7 +11,7 @@ www.[WEBSITE_URL]/games/[GAME_NAME]/[GAME_NAME].html
 ```
 Here is an example:
 ```
-www.notarealwebsite.com/games/slope/slope.html
+www.notarealwebsite.com/games/slope/index.html
 ```
 
 3. Happy Embedding!
