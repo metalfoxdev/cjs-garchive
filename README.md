@@ -15,5 +15,3 @@ www.notarealwebsite.com/games/slope/slope.html
 ```
 
 3. Happy Embedding!
-
-test
