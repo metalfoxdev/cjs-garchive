@@ -1,4 +1,8 @@
 # cjs-garchive
-A collection of JavaScript and HTML5 game files which can be used for embedding
+An archive of all the HTML5 games we can find!
 
-add games to the website for them to be imbedded into the website!
+You can embed them into your website using this syntax:
+
+```
+https://metalfoxdev.github.io/cjs-garchive/<game-folder-name>
+```
